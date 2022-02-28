@@ -1,0 +1,5 @@
+setup.py
+src/pythonMudProject.egg-info/PKG-INFO
+src/pythonMudProject.egg-info/SOURCES.txt
+src/pythonMudProject.egg-info/dependency_links.txt
+src/pythonMudProject.egg-info/top_level.txt
